@@ -1,0 +1,2276 @@
+fileFormatVersion: 2
+guid: 3cb618cf1ffeab04ca6baa352d39969b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7180026971309024129
+    second: Fairy Queen Sprite Sheet_0
+  - first:
+      213: -2693368084636405586
+    second: Fairy Queen Sprite Sheet_1
+  - first:
+      213: 2048384174560639304
+    second: Fairy Queen Sprite Sheet_2
+  - first:
+      213: -8708706676667037849
+    second: Fairy Queen Sprite Sheet_3
+  - first:
+      213: -3999431264811136508
+    second: Fairy Queen Sprite Sheet_4
+  - first:
+      213: 3995086130297139326
+    second: Fairy Queen Sprite Sheet_5
+  - first:
+      213: -1497124195197453003
+    second: Fairy Queen Sprite Sheet_6
+  - first:
+      213: 2686110786299838450
+    second: Fairy Queen Sprite Sheet_7
+  - first:
+      213: 7914212342596276403
+    second: Fairy Queen Sprite Sheet_8
+  - first:
+      213: 8781973669954941294
+    second: Fairy Queen Sprite Sheet_9
+  - first:
+      213: 452693010853800129
+    second: Fairy Queen Sprite Sheet_10
+  - first:
+      213: -3506811798548002642
+    second: Fairy Queen Sprite Sheet_11
+  - first:
+      213: -6960837785039908265
+    second: Fairy Queen Sprite Sheet_12
+  - first:
+      213: -2358557556919677920
+    second: Fairy Queen Sprite Sheet_13
+  - first:
+      213: -1558874269534774841
+    second: Fairy Queen Sprite Sheet_14
+  - first:
+      213: -3780860221697698436
+    second: Fairy Queen Sprite Sheet_15
+  - first:
+      213: -3243673646812146831
+    second: Fairy Queen Sprite Sheet_16
+  - first:
+      213: 3936350011653484923
+    second: Fairy Queen Sprite Sheet_17
+  - first:
+      213: 2561857392917373763
+    second: Fairy Queen Sprite Sheet_18
+  - first:
+      213: 5663372141061453210
+    second: Fairy Queen Sprite Sheet_19
+  - first:
+      213: 7268845516614614803
+    second: Fairy Queen Sprite Sheet_20
+  - first:
+      213: 5724985175837139164
+    second: Fairy Queen Sprite Sheet_21
+  - first:
+      213: 1219470238045290583
+    second: Fairy Queen Sprite Sheet_22
+  - first:
+      213: -9211471553899116590
+    second: Fairy Queen Sprite Sheet_23
+  - first:
+      213: 8582081751173066248
+    second: Fairy Queen Sprite Sheet_24
+  - first:
+      213: -1318804603299012612
+    second: Fairy Queen Sprite Sheet_25
+  - first:
+      213: -3139446160090707691
+    second: Fairy Queen Sprite Sheet_26
+  - first:
+      213: -3714902068712345435
+    second: Fairy Queen Sprite Sheet_27
+  - first:
+      213: -2941275467879945297
+    second: Fairy Queen Sprite Sheet_28
+  - first:
+      213: 1434025837935223903
+    second: Fairy Queen Sprite Sheet_29
+  - first:
+      213: -1860105767472835086
+    second: Fairy Queen Sprite Sheet_30
+  - first:
+      213: 2753568900392458279
+    second: Fairy Queen Sprite Sheet_31
+  - first:
+      213: 7273107504136699392
+    second: Fairy Queen Sprite Sheet_32
+  - first:
+      213: 8902082933484882598
+    second: Fairy Queen Sprite Sheet_33
+  - first:
+      213: -7192837234726377729
+    second: Fairy Queen Sprite Sheet_34
+  - first:
+      213: -2905764839900542682
+    second: Fairy Queen Sprite Sheet_35
+  - first:
+      213: 8962990134740404679
+    second: Fairy Queen Sprite Sheet_36
+  - first:
+      213: -984959051886081642
+    second: Fairy Queen Sprite Sheet_37
+  - first:
+      213: -7410085903059002306
+    second: Fairy Queen Sprite Sheet_38
+  - first:
+      213: -380697264758153953
+    second: Fairy Queen Sprite Sheet_39
+  - first:
+      213: -5762988357474843343
+    second: Fairy Queen Sprite Sheet_40
+  - first:
+      213: 6181305016429706771
+    second: Fairy Queen Sprite Sheet_41
+  - first:
+      213: 4425593506197444483
+    second: Fairy Queen Sprite Sheet_42
+  - first:
+      213: 4681114793145695879
+    second: Fairy Queen Sprite Sheet_43
+  - first:
+      213: -3737439808942980183
+    second: Fairy Queen Sprite Sheet_44
+  - first:
+      213: 171444485937942681
+    second: Fairy Queen Sprite Sheet_45
+  - first:
+      213: 7139128936926633574
+    second: Fairy Queen Sprite Sheet_46
+  - first:
+      213: -6346199595902799267
+    second: Fairy Queen Sprite Sheet_47
+  - first:
+      213: -7539018188913142688
+    second: Fairy Queen Sprite Sheet_48
+  - first:
+      213: 1311752480624282877
+    second: Fairy Queen Sprite Sheet_49
+  - first:
+      213: 1791180945147494198
+    second: Fairy Queen Sprite Sheet_50
+  - first:
+      213: 3028778770752918562
+    second: Fairy Queen Sprite Sheet_51
+  - first:
+      213: 6866609962594129899
+    second: Fairy Queen Sprite Sheet_52
+  - first:
+      213: 3537973461934824201
+    second: Fairy Queen Sprite Sheet_53
+  - first:
+      213: 7307063994738229736
+    second: Fairy Queen Sprite Sheet_54
+  - first:
+      213: -346789743978988108
+    second: Fairy Queen Sprite Sheet_55
+  - first:
+      213: 4921438107781119572
+    second: Fairy Queen Sprite Sheet_56
+  - first:
+      213: 6516163132947492996
+    second: Fairy Queen Sprite Sheet_57
+  - first:
+      213: 1550566188111168217
+    second: Fairy Queen Sprite Sheet_58
+  - first:
+      213: 582253935302763134
+    second: Fairy Queen Sprite Sheet_59
+  - first:
+      213: -2538643136362909758
+    second: Fairy Queen Sprite Sheet_60
+  - first:
+      213: -3871223001510532469
+    second: Fairy Queen Sprite Sheet_61
+  - first:
+      213: 5397655339683264247
+    second: Fairy Queen Sprite Sheet_62
+  - first:
+      213: -1727190362787832360
+    second: Fairy Queen Sprite Sheet_63
+  - first:
+      213: -1596663626087540000
+    second: Fairy Queen Sprite Sheet_64
+  - first:
+      213: -3989829464113174144
+    second: Fairy Queen Sprite Sheet_65
+  - first:
+      213: 3256356724959615079
+    second: Fairy Queen Sprite Sheet_66
+  - first:
+      213: 7320786795269578056
+    second: Fairy Queen Sprite Sheet_67
+  - first:
+      213: -6933336859194383677
+    second: Fairy Queen Sprite Sheet_68
+  - first:
+      213: 703865195086318551
+    second: Fairy Queen Sprite Sheet_69
+  - first:
+      213: -7788948273584536986
+    second: Fairy Queen Sprite Sheet_70
+  - first:
+      213: -4814465884582215707
+    second: Fairy Queen Sprite Sheet_71
+  - first:
+      213: -5613387791863958411
+    second: Fairy Queen Sprite Sheet_72
+  - first:
+      213: 4221269330164064583
+    second: Fairy Queen Sprite Sheet_73
+  - first:
+      213: 5552287439136338923
+    second: Fairy Queen Sprite Sheet_74
+  - first:
+      213: 664097428436621641
+    second: Fairy Queen Sprite Sheet_75
+  - first:
+      213: 645981471161998312
+    second: Fairy Queen Sprite Sheet_76
+  - first:
+      213: -8626664078861451478
+    second: Fairy Queen Sprite Sheet_77
+  - first:
+      213: -7864024110787949253
+    second: Fairy Queen Sprite Sheet_78
+  - first:
+      213: -7757081286558892850
+    second: Fairy Queen Sprite Sheet_79
+  - first:
+      213: 9062106914164948604
+    second: Fairy Queen Sprite Sheet_80
+  - first:
+      213: -2802491622980167597
+    second: Fairy Queen Sprite Sheet_81
+  - first:
+      213: 3952418169583891306
+    second: Fairy Queen Sprite Sheet_82
+  - first:
+      213: 986927693761583204
+    second: Fairy Queen Sprite Sheet_83
+  - first:
+      213: -6755560221044879751
+    second: Fairy Queen Sprite Sheet_84
+  - first:
+      213: 8482839661415648940
+    second: Fairy Queen Sprite Sheet_85
+  - first:
+      213: -2869437549154749928
+    second: Fairy Queen Sprite Sheet_86
+  - first:
+      213: 7314608725275844340
+    second: Fairy Queen Sprite Sheet_87
+  - first:
+      213: -2300267452699517475
+    second: Fairy Queen Sprite Sheet_88
+  - first:
+      213: 7626966075771783529
+    second: Fairy Queen Sprite Sheet_89
+  - first:
+      213: -4283936357454150866
+    second: Fairy Queen Sprite Sheet_90
+  - first:
+      213: -7883422266161944900
+    second: Fairy Queen Sprite Sheet_91
+  - first:
+      213: 6870247217960054471
+    second: Fairy Queen Sprite Sheet_92
+  - first:
+      213: 4418833770536823440
+    second: Fairy Queen Sprite Sheet_93
+  - first:
+      213: 1387530265951017879
+    second: Fairy Queen Sprite Sheet_94
+  - first:
+      213: 8565815023531963176
+    second: Fairy Queen Sprite Sheet_95
+  - first:
+      213: -2714910804158920850
+    second: Fairy Queen Sprite Sheet_96
+  - first:
+      213: 2949033199575028916
+    second: Fairy Queen Sprite Sheet_97
+  - first:
+      213: -3206112213285723023
+    second: Fairy Queen Sprite Sheet_98
+  - first:
+      213: -5196705374170283595
+    second: Fairy Queen Sprite Sheet_99
+  - first:
+      213: 2912691110966888925
+    second: Fairy Queen Sprite Sheet_100
+  - first:
+      213: 8741602175704446930
+    second: Fairy Queen Sprite Sheet_101
+  - first:
+      213: 3130961419836017216
+    second: Fairy Queen Sprite Sheet_102
+  - first:
+      213: 4174640453165911249
+    second: Fairy Queen Sprite Sheet_103
+  - first:
+      213: -6842330367404376966
+    second: Fairy Queen Sprite Sheet_104
+  - first:
+      213: -3247847509732043857
+    second: Fairy Queen Sprite Sheet_105
+  - first:
+      213: 3097446960134915289
+    second: Fairy Queen Sprite Sheet_106
+  - first:
+      213: 1894816292996052808
+    second: Fairy Queen Sprite Sheet_107
+  - first:
+      213: -3706406579095008820
+    second: Fairy Queen Sprite Sheet_108
+  - first:
+      213: 7715230066490053613
+    second: Fairy Queen Sprite Sheet_109
+  - first:
+      213: -7436663694601916933
+    second: Fairy Queen Sprite Sheet_110
+  - first:
+      213: 5625129426937710670
+    second: Fairy Queen Sprite Sheet_111
+  - first:
+      213: 5526587384455237656
+    second: Fairy Queen Sprite Sheet_112
+  - first:
+      213: -6092243905676847390
+    second: Fairy Queen Sprite Sheet_113
+  - first:
+      213: 5847486268952053009
+    second: Fairy Queen Sprite Sheet_114
+  - first:
+      213: 1607185055839537920
+    second: Fairy Queen Sprite Sheet_115
+  - first:
+      213: 2451622907160628970
+    second: Fairy Queen Sprite Sheet_116
+  - first:
+      213: -7776379758526245909
+    second: Fairy Queen Sprite Sheet_117
+  - first:
+      213: -2081806749424463082
+    second: Fairy Queen Sprite Sheet_118
+  - first:
+      213: -20695742558902191
+    second: Fairy Queen Sprite Sheet_119
+  - first:
+      213: -6892302293233047638
+    second: Fairy Queen Sprite Sheet_120
+  - first:
+      213: 8029582569987472668
+    second: Fairy Queen Sprite Sheet_121
+  - first:
+      213: 139499178045701302
+    second: Fairy Queen Sprite Sheet_122
+  - first:
+      213: 3313006017242261019
+    second: Fairy Queen Sprite Sheet_123
+  - first:
+      213: 5215204154917018175
+    second: Fairy Queen Sprite Sheet_124
+  - first:
+      213: 8007490200170307658
+    second: Fairy Queen Sprite Sheet_125
+  - first:
+      213: -6958900586290930870
+    second: Fairy Queen Sprite Sheet_126
+  - first:
+      213: 8862318602067217929
+    second: Fairy Queen Sprite Sheet_127
+  - first:
+      213: 7635899834755278695
+    second: Fairy Queen Sprite Sheet_128
+  - first:
+      213: 6824787889291805598
+    second: Fairy Queen Sprite Sheet_129
+  - first:
+      213: -8607613482895452351
+    second: Fairy Queen Sprite Sheet_130
+  - first:
+      213: 2787585176340860687
+    second: Fairy Queen Sprite Sheet_131
+  - first:
+      213: 4618377292456792515
+    second: Fairy Queen Sprite Sheet_132
+  - first:
+      213: 781915332348158344
+    second: Fairy Queen Sprite Sheet_133
+  - first:
+      213: 3611719662807328069
+    second: Fairy Queen Sprite Sheet_134
+  - first:
+      213: -824025775610465076
+    second: Fairy Queen Sprite Sheet_135
+  - first:
+      213: 2240254217309966920
+    second: Fairy Queen Sprite Sheet_136
+  - first:
+      213: 8427000031819990790
+    second: Fairy Queen Sprite Sheet_137
+  - first:
+      213: -7860178617876776477
+    second: Fairy Queen Sprite Sheet_138
+  - first:
+      213: 2649283265207565354
+    second: Fairy Queen Sprite Sheet_139
+  - first:
+      213: 2630089107319087670
+    second: Fairy Queen Sprite Sheet_140
+  - first:
+      213: -897647699120105506
+    second: Fairy Queen Sprite Sheet_141
+  - first:
+      213: -2659943815424078752
+    second: Fairy Queen Sprite Sheet_142
+  - first:
+      213: -5704458554097540889
+    second: Fairy Queen Sprite Sheet_143
+  - first:
+      213: -1795389762968230227
+    second: Fairy Queen Sprite Sheet_144
+  - first:
+      213: 1730051100003729851
+    second: Fairy Queen Sprite Sheet_145
+  - first:
+      213: -1441617027998779350
+    second: Fairy Queen Sprite Sheet_146
+  - first:
+      213: 3585690441020488884
+    second: Fairy Queen Sprite Sheet_147
+  - first:
+      213: 6708077691991905666
+    second: Fairy Queen Sprite Sheet_148
+  - first:
+      213: -1049438279738841651
+    second: Fairy Queen Sprite Sheet_149
+  - first:
+      213: -5029722278286831603
+    second: Fairy Queen Sprite Sheet_150
+  - first:
+      213: -3432463753934602175
+    second: Fairy Queen Sprite Sheet_151
+  - first:
+      213: 756984621705474286
+    second: Fairy Queen Sprite Sheet_152
+  - first:
+      213: 7724171808005319590
+    second: Fairy Queen Sprite Sheet_153
+  - first:
+      213: -4205731731408936883
+    second: Fairy Queen Sprite Sheet_154
+  - first:
+      213: 8497890514792955372
+    second: Fairy Queen Sprite Sheet_155
+  - first:
+      213: 5107225140860306471
+    second: Fairy Queen Sprite Sheet_156
+  - first:
+      213: -6323322942621405418
+    second: Fairy Queen Sprite Sheet_157
+  - first:
+      213: 856257759644998018
+    second: Fairy Queen Sprite Sheet_158
+  - first:
+      213: 7002608590661761724
+    second: Fairy Queen Sprite Sheet_159
+  - first:
+      213: -6594066242409143200
+    second: Fairy Queen Sprite Sheet_160
+  - first:
+      213: 2826050351170019124
+    second: Fairy Queen Sprite Sheet_161
+  - first:
+      213: -1187695262858284069
+    second: Fairy Queen Sprite Sheet_162
+  - first:
+      213: 3905798767369920973
+    second: Fairy Queen Sprite Sheet_163
+  - first:
+      213: 3715853536221169171
+    second: Fairy Queen Sprite Sheet_164
+  - first:
+      213: 8107867685071727211
+    second: Fairy Queen Sprite Sheet_165
+  - first:
+      213: 3235275835053934970
+    second: Fairy Queen Sprite Sheet_166
+  - first:
+      213: 8034091146406690473
+    second: Fairy Queen Sprite Sheet_167
+  - first:
+      213: -8216171325432595033
+    second: Fairy Queen Sprite Sheet_168
+  - first:
+      213: -1374348325450613197
+    second: Fairy Queen Sprite Sheet_169
+  - first:
+      213: 1150162939024693813
+    second: Fairy Queen Sprite Sheet_170
+  - first:
+      213: -788282956457566876
+    second: Fairy Queen Sprite Sheet_171
+  - first:
+      213: -3453574386164036692
+    second: Fairy Queen Sprite Sheet_172
+  - first:
+      213: -1709829387652178318
+    second: Fairy Queen Sprite Sheet_173
+  - first:
+      213: -1551102765634720525
+    second: Fairy Queen Sprite Sheet_174
+  - first:
+      213: 2191598904837436686
+    second: Fairy Queen Sprite Sheet_175
+  - first:
+      213: -116847200327002330
+    second: Fairy Queen Sprite Sheet_176
+  - first:
+      213: -6691640057884596712
+    second: Fairy Queen Sprite Sheet_177
+  - first:
+      213: 1773504959494147648
+    second: Fairy Queen Sprite Sheet_178
+  - first:
+      213: 3989672552040695642
+    second: Fairy Queen Sprite Sheet_179
+  - first:
+      213: -7596682491574948726
+    second: Fairy Queen Sprite Sheet_180
+  - first:
+      213: 3159903234844078925
+    second: Fairy Queen Sprite Sheet_181
+  - first:
+      213: 1926955125198415454
+    second: Fairy Queen Sprite Sheet_182
+  - first:
+      213: 777158513151285492
+    second: Fairy Queen Sprite Sheet_183
+  - first:
+      213: -6928909131783061188
+    second: Fairy Queen Sprite Sheet_184
+  - first:
+      213: -1579014297821914984
+    second: Fairy Queen Sprite Sheet_185
+  - first:
+      213: 3186500331370921075
+    second: Fairy Queen Sprite Sheet_186
+  - first:
+      213: 7671230764499738604
+    second: Fairy Queen Sprite Sheet_187
+  - first:
+      213: 2210305901210151654
+    second: Fairy Queen Sprite Sheet_188
+  - first:
+      213: -3856244049063407676
+    second: Fairy Queen Sprite Sheet_189
+  - first:
+      213: 3908843884721140193
+    second: Fairy Queen Sprite Sheet_190
+  - first:
+      213: -2221372460109867692
+    second: Fairy Queen Sprite Sheet_191
+  - first:
+      213: 7098856952482685218
+    second: Fairy Queen Sprite Sheet_192
+  - first:
+      213: -968727345893684076
+    second: Fairy Queen Sprite Sheet_193
+  - first:
+      213: -1661351352045720257
+    second: Fairy Queen Sprite Sheet_194
+  - first:
+      213: 419371775628420261
+    second: Fairy Queen Sprite Sheet_195
+  - first:
+      213: 4455384592691296114
+    second: Fairy Queen Sprite Sheet_196
+  - first:
+      213: -683528155717392543
+    second: Fairy Queen Sprite Sheet_197
+  - first:
+      213: -8945821864725772068
+    second: Fairy Queen Sprite Sheet_198
+  - first:
+      213: 8412108540777137305
+    second: Fairy Queen Sprite Sheet_199
+  - first:
+      213: -8738802788497597103
+    second: Fairy Queen Sprite Sheet_200
+  - first:
+      213: -2628138639178812213
+    second: Fairy Queen Sprite Sheet_201
+  - first:
+      213: 4263331332099272252
+    second: Fairy Queen Sprite Sheet_202
+  - first:
+      213: 7860409072568076063
+    second: Fairy Queen Sprite Sheet_203
+  - first:
+      213: 6743604216290157324
+    second: Fairy Queen Sprite Sheet_204
+  - first:
+      213: -7330656162157498171
+    second: Fairy Queen Sprite Sheet_205
+  - first:
+      213: 1461090215508905893
+    second: Fairy Queen Sprite Sheet_206
+  - first:
+      213: 18754450968123529
+    second: Fairy Queen Sprite Sheet_207
+  - first:
+      213: 6920478174961300110
+    second: Fairy Queen Sprite Sheet_208
+  - first:
+      213: 836024693279771326
+    second: Fairy Queen Sprite Sheet_209
+  - first:
+      213: -790465801364523062
+    second: Fairy Queen Sprite Sheet_210
+  - first:
+      213: -9170723023559981273
+    second: Fairy Queen Sprite Sheet_211
+  - first:
+      213: -4455513674117971433
+    second: Fairy Queen Sprite Sheet_212
+  - first:
+      213: -7620995054702728436
+    second: Fairy Queen Sprite Sheet_213
+  - first:
+      213: 99888373313240119
+    second: Fairy Queen Sprite Sheet_214
+  - first:
+      213: 3959943656413876144
+    second: Fairy Queen Sprite Sheet_215
+  - first:
+      213: 8172921865816884985
+    second: Fairy Queen Sprite Sheet_216
+  - first:
+      213: 4274796881783232613
+    second: Fairy Queen Sprite Sheet_217
+  - first:
+      213: -366368081843744361
+    second: Fairy Queen Sprite Sheet_218
+  - first:
+      213: -4719596060020593180
+    second: Fairy Queen Sprite Sheet_219
+  - first:
+      213: -5159191585786711940
+    second: Fairy Queen Sprite Sheet_0
+  - first:
+      213: -739345640789727457
+    second: Fairy Queen Sprite Sheet_1
+  - first:
+      213: 1342051967171528772
+    second: Fairy Queen Sprite Sheet_2
+  - first:
+      213: 2824266066521127443
+    second: Fairy Queen Sprite Sheet_3
+  - first:
+      213: 5815183417165385617
+    second: Fairy Queen Sprite Sheet_4
+  - first:
+      213: 923323411345918994
+    second: Fairy Queen Sprite Sheet_5
+  - first:
+      213: -7789541728513255526
+    second: Fairy Queen Sprite Sheet_6
+  - first:
+      213: -8676320665292718466
+    second: Fairy Queen Sprite Sheet_7
+  - first:
+      213: -2216538810475034122
+    second: Fairy Queen Sprite Sheet_8
+  - first:
+      213: -1858459107716171290
+    second: Fairy Queen Sprite Sheet_9
+  - first:
+      213: 5226937269302530507
+    second: Fairy Queen Sprite Sheet_10
+  - first:
+      213: -8336646114568553399
+    second: Fairy Queen Sprite Sheet_11
+  - first:
+      213: 8260846649926870475
+    second: Fairy Queen Sprite Sheet_12
+  - first:
+      213: 8356635743320432294
+    second: Fairy Queen Sprite Sheet_13
+  - first:
+      213: 6360256962079902008
+    second: Fairy Queen Sprite Sheet_14
+  - first:
+      213: -3052007232467063588
+    second: Fairy Queen Sprite Sheet_15
+  - first:
+      213: 8171150247721687324
+    second: Fairy Queen Sprite Sheet_16
+  - first:
+      213: -4485646326719072687
+    second: Fairy Queen Sprite Sheet_17
+  - first:
+      213: 5599611369979546455
+    second: Fairy Queen Sprite Sheet_18
+  - first:
+      213: -7415360835730345625
+    second: Fairy Queen Sprite Sheet_19
+  - first:
+      213: 2639479305771510987
+    second: Fairy Queen Sprite Sheet_20
+  - first:
+      213: 628501254431522889
+    second: Fairy Queen Sprite Sheet_21
+  - first:
+      213: -720313721950005871
+    second: Fairy Queen Sprite Sheet_22
+  - first:
+      213: 815766281920538734
+    second: Fairy Queen Sprite Sheet_23
+  - first:
+      213: -1611130947194642217
+    second: Fairy Queen Sprite Sheet_24
+  - first:
+      213: 2005831902301886473
+    second: Fairy Queen Sprite Sheet_25
+  - first:
+      213: -7929208177664185949
+    second: Fairy Queen Sprite Sheet_26
+  - first:
+      213: 7923685873958632327
+    second: Fairy Queen Sprite Sheet_27
+  - first:
+      213: -1145520746485583896
+    second: Fairy Queen Sprite Sheet_28
+  - first:
+      213: -4396273203588973966
+    second: Fairy Queen Sprite Sheet_29
+  - first:
+      213: -4134933057377704203
+    second: Fairy Queen Sprite Sheet_30
+  - first:
+      213: 8945065241730406599
+    second: Fairy Queen Sprite Sheet_31
+  - first:
+      213: -4938429041369166730
+    second: Fairy Queen Sprite Sheet_32
+  - first:
+      213: 494633467086725392
+    second: Fairy Queen Sprite Sheet_33
+  - first:
+      213: -7348531428875736823
+    second: Fairy Queen Sprite Sheet_34
+  - first:
+      213: -3258462872837644891
+    second: Fairy Queen Sprite Sheet_35
+  - first:
+      213: 5792009710166605869
+    second: Fairy Queen Sprite Sheet_36
+  - first:
+      213: 3517105715451257213
+    second: Fairy Queen Sprite Sheet_37
+  - first:
+      213: -2695428271941442467
+    second: Fairy Queen Sprite Sheet_38
+  - first:
+      213: -1144909429985018559
+    second: Fairy Queen Sprite Sheet_39
+  - first:
+      213: -8025615105811971175
+    second: Fairy Queen Sprite Sheet_40
+  - first:
+      213: 1148421966305940849
+    second: Fairy Queen Sprite Sheet_41
+  - first:
+      213: 8067081142728753680
+    second: Fairy Queen Sprite Sheet_42
+  - first:
+      213: -8850212800794533135
+    second: Fairy Queen Sprite Sheet_43
+  - first:
+      213: -6384527108962602756
+    second: Fairy Queen Sprite Sheet_44
+  - first:
+      213: 703693212441529838
+    second: Fairy Queen Sprite Sheet_45
+  - first:
+      213: 2729105405447084860
+    second: Fairy Queen Sprite Sheet_46
+  - first:
+      213: 8616453652689816712
+    second: Fairy Queen Sprite Sheet_47
+  - first:
+      213: 4770584071265254888
+    second: Fairy Queen Sprite Sheet_48
+  - first:
+      213: 5355979567284432574
+    second: Fairy Queen Sprite Sheet_49
+  - first:
+      213: 1257627481772272564
+    second: Fairy Queen Sprite Sheet_50
+  - first:
+      213: 1478551328854845316
+    second: Fairy Queen Sprite Sheet_51
+  - first:
+      213: -5892308084162936568
+    second: Fairy Queen Sprite Sheet_52
+  - first:
+      213: 2803534531402345098
+    second: Fairy Queen Sprite Sheet_53
+  - first:
+      213: -4912681196735743010
+    second: Fairy Queen Sprite Sheet_54
+  - first:
+      213: 4800483544063350227
+    second: Fairy Queen Sprite Sheet_55
+  - first:
+      213: 2877186598968833076
+    second: Fairy Queen Sprite Sheet_56
+  - first:
+      213: -3662854531443144887
+    second: Fairy Queen Sprite Sheet_57
+  - first:
+      213: 2617372929027044742
+    second: Fairy Queen Sprite Sheet_58
+  - first:
+      213: -4275592212601946488
+    second: Fairy Queen Sprite Sheet_59
+  - first:
+      213: -548877657442773625
+    second: Fairy Queen Sprite Sheet_60
+  - first:
+      213: -2055724833295076464
+    second: Fairy Queen Sprite Sheet_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70bff8569ed668b0800000000000000
+      internalID: -5159191585786711940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ae729e015db5f0800000000000000
+      internalID: -739345640789727457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488f55572def9210800000000000000
+      internalID: 1342051967171528772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7e2e160fc13720800000000000000
+      internalID: 2824266066521127443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f82ebf18ea3b050800000000000000
+      internalID: 5815183417165385617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c431a20cd40dc00800000000000000
+      internalID: 923323411345918994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9792e4911df5e390800000000000000
+      internalID: -7789541728513255526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb8d3f254879780800000000000000
+      internalID: -8676320665292718466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c4c212b54d31e0800000000000000
+      internalID: -2216538810475034122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fcfeb94d6536e0800000000000000
+      internalID: -1858459107716171290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11700c0cfc98840800000000000000
+      internalID: 5226937269302530507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c300b37884e4c80800000000000000
+      internalID: -8336646114568553399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5edd0a24c64a270800000000000000
+      internalID: 8260846649926870475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae52f5eeebb8f370800000000000000
+      internalID: 8356635743320432294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394af8420c244850800000000000000
+      internalID: 6360256962079902008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.45957956, y: 0.49964428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca0e0a79715a5d0800000000000000
+      internalID: -3052007232467063588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 511
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5218195, y: 0.48945522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19dbc19bd1c56170800000000000000
+      internalID: 8171150247721687324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.493896, y: 0.5016632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156bfdb8e68cfb1c0800000000000000
+      internalID: -4485646326719072687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4438641, y: 0.42808056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8edb7fd0d5bd40800000000000000
+      internalID: 5599611369979546455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 468
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f2f0bb98571990800000000000000
+      internalID: -7415360835730345625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc618ca17051a420800000000000000
+      internalID: 2639479305771510987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 449
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940474b9f82e8b800800000000000000
+      internalID: 628501254431522889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195945c7c7ee006f0800000000000000
+      internalID: -720313721950005871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686d9d7c1f225b00800000000000000
+      internalID: 815766281920538734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d023dd80fc14a9e0800000000000000
+      internalID: -1611130947194642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90899dfdc7526db10800000000000000
+      internalID: 2005831902301886473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a924345c2bc5f190800000000000000
+      internalID: -7929208177664185949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb515225696fd60800000000000000
+      internalID: 7923685873958632327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe2e643fa4a10f0800000000000000
+      internalID: -1145520746485583896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab28450dc4df2c0800000000000000
+      internalID: -4396273203588973966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f66bf8ca44cd96c0800000000000000
+      internalID: -4134933057377704203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d802c171432c70800000000000000
+      internalID: 8945065241730406599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cc7b8a3fc277bb0800000000000000
+      internalID: -4938429041369166730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01169b3848a4dd600800000000000000
+      internalID: 494633467086725392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90961118995c40a90800000000000000
+      internalID: -7348531428875736823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad96bef74d97c2d0800000000000000
+      internalID: -3258462872837644891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20081ed42a516050800000000000000
+      internalID: 5792009710166605869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71e7f683054fc030800000000000000
+      internalID: 3517105715451257213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a265844ae79ad0800000000000000
+      internalID: -2695428271941442467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d7fbd70f67c10f0800000000000000
+      internalID: -1144909429985018559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993811235994f9090800000000000000
+      internalID: -8025615105811971175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175dbe991b300ff00800000000000000
+      internalID: 1148421966305940849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012899ede8704ff60800000000000000
+      internalID: 8067081142728753680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e60e195abd2580800000000000000
+      internalID: -8850212800794533135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0be6bcb6a9567a0800000000000000
+      internalID: -6384527108962602756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4e669f3504c900800000000000000
+      internalID: 703693212441529838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b954628eabfd520800000000000000
+      internalID: 2729105405447084860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8138f1fac39770800000000000000
+      internalID: 8616453652689816712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf6eaefe4843240800000000000000
+      internalID: 4770584071265254888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2d3c0a03445a40800000000000000
+      internalID: 5355979567284432574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2ece088df37110800000000000000
+      internalID: 1257627481772272564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872392999ed48410800000000000000
+      internalID: 1478551328854845316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014e4824015a3ea0800000000000000
+      internalID: -5892308084162936568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a27c37dc728e620800000000000000
+      internalID: 2803534531402345098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb33d5ea76a2dbb0800000000000000
+      internalID: -4912681196735743010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5110a695ebe9240800000000000000
+      internalID: 4800483544063350227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343d00c7f1dde720800000000000000
+      internalID: 2877186598968833076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c665d53dea2dc0800000000000000
+      internalID: -3662854531443144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685716fbfc6c25420800000000000000
+      internalID: 2617372929027044742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e3f63298b0aa4c0800000000000000
+      internalID: -4275592212601946488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78599fabdaef168f0800000000000000
+      internalID: -548877657442773625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy Queen Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0937f73e7299873e0800000000000000
+      internalID: -2055724833295076464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

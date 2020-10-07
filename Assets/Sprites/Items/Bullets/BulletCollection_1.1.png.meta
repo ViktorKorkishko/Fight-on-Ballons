@@ -1,0 +1,2240 @@
+fileFormatVersion: 2
+guid: 545844a12310df74da55bd1ab8db68e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8288652773850467703
+    second: BulletCollection_1.1_0
+  - first:
+      213: 1338498052445277808
+    second: BulletCollection_1.1_1
+  - first:
+      213: 5426985191567999087
+    second: BulletCollection_1.1_2
+  - first:
+      213: 4246948694397390160
+    second: BulletCollection_1.1_3
+  - first:
+      213: 1339135598233386157
+    second: BulletCollection_1.1_4
+  - first:
+      213: -2436147044329136390
+    second: BulletCollection_1.1_5
+  - first:
+      213: -7165977876494693116
+    second: BulletCollection_1.1_6
+  - first:
+      213: -7803787562929830582
+    second: BulletCollection_1.1_7
+  - first:
+      213: 7240041206182277034
+    second: BulletCollection_1.1_8
+  - first:
+      213: -3958999258583353819
+    second: BulletCollection_1.1_9
+  - first:
+      213: -6286478081757046622
+    second: BulletCollection_1.1_10
+  - first:
+      213: 6133393683723449557
+    second: BulletCollection_1.1_11
+  - first:
+      213: -2801479508169704462
+    second: BulletCollection_1.1_12
+  - first:
+      213: -1518926140248983663
+    second: BulletCollection_1.1_13
+  - first:
+      213: 5587984456049816316
+    second: BulletCollection_1.1_14
+  - first:
+      213: -6490555121125132412
+    second: BulletCollection_1.1_15
+  - first:
+      213: -4419887693726062267
+    second: BulletCollection_1.1_16
+  - first:
+      213: -487345658783727952
+    second: BulletCollection_1.1_17
+  - first:
+      213: 8853478892267081232
+    second: BulletCollection_1.1_18
+  - first:
+      213: -5121898393593668667
+    second: BulletCollection_1.1_19
+  - first:
+      213: -6751138542498903055
+    second: BulletCollection_1.1_20
+  - first:
+      213: -962337036725146016
+    second: BulletCollection_1.1_21
+  - first:
+      213: 5994789789435511210
+    second: BulletCollection_1.1_22
+  - first:
+      213: 6021922265622477368
+    second: BulletCollection_1.1_23
+  - first:
+      213: -2466179393065185922
+    second: BulletCollection_1.1_24
+  - first:
+      213: -2140238688463102563
+    second: BulletCollection_1.1_25
+  - first:
+      213: 1215267524720195050
+    second: BulletCollection_1.1_26
+  - first:
+      213: 4488425460999609042
+    second: BulletCollection_1.1_27
+  - first:
+      213: -6933023054384433198
+    second: BulletCollection_1.1_28
+  - first:
+      213: 5446100333532294343
+    second: BulletCollection_1.1_29
+  - first:
+      213: 3502087758756463999
+    second: BulletCollection_1.1_30
+  - first:
+      213: 4884707272709601648
+    second: BulletCollection_1.1_31
+  - first:
+      213: -5322504024781321530
+    second: BulletCollection_1.1_32
+  - first:
+      213: 3142306578993980667
+    second: BulletCollection_1.1_33
+  - first:
+      213: 870279709464346601
+    second: BulletCollection_1.1_34
+  - first:
+      213: -8346555606980328766
+    second: BulletCollection_1.1_35
+  - first:
+      213: -4908512215032211009
+    second: BulletCollection_1.1_36
+  - first:
+      213: -7181060057023140597
+    second: BulletCollection_1.1_37
+  - first:
+      213: 2695018129252613880
+    second: BulletCollection_1.1_38
+  - first:
+      213: -5279374499010697047
+    second: BulletCollection_1.1_39
+  - first:
+      213: -7915371982223832348
+    second: BulletCollection_1.1_40
+  - first:
+      213: 1499113448066355318
+    second: BulletCollection_1.1_41
+  - first:
+      213: 5600278916032825056
+    second: BulletCollection_1.1_42
+  - first:
+      213: -8889230131918270206
+    second: BulletCollection_1.1_43
+  - first:
+      213: -4739045732085417198
+    second: BulletCollection_1.1_44
+  - first:
+      213: -1973387931239009795
+    second: BulletCollection_1.1_45
+  - first:
+      213: -5286752136788461431
+    second: BulletCollection_1.1_46
+  - first:
+      213: -5714332338600711914
+    second: BulletCollection_1.1_47
+  - first:
+      213: 7750385622278027106
+    second: BulletCollection_1.1_48
+  - first:
+      213: 8661361438249208860
+    second: BulletCollection_1.1_49
+  - first:
+      213: -7534872755537758325
+    second: BulletCollection_1.1_50
+  - first:
+      213: 6370801901668528401
+    second: BulletCollection_1.1_51
+  - first:
+      213: -2785422368597939842
+    second: BulletCollection_1.1_52
+  - first:
+      213: -6991287198794849943
+    second: BulletCollection_1.1_53
+  - first:
+      213: -6229619011624391562
+    second: BulletCollection_1.1_54
+  - first:
+      213: 6114183617467043226
+    second: BulletCollection_1.1_55
+  - first:
+      213: 4637881169365819271
+    second: BulletCollection_1.1_56
+  - first:
+      213: -3909870146083288367
+    second: BulletCollection_1.1_57
+  - first:
+      213: -6451679430780839872
+    second: BulletCollection_1.1_58
+  - first:
+      213: 8382700398509571305
+    second: BulletCollection_1.1_59
+  - first:
+      213: 714433286896045965
+    second: BulletCollection_1.1_60
+  - first:
+      213: -7588841103040925983
+    second: BulletCollection_1.1_61
+  - first:
+      213: 8646736058634366227
+    second: BulletCollection_1.1_62
+  - first:
+      213: 1654688066959318891
+    second: BulletCollection_1.1_63
+  - first:
+      213: -6006904273066912656
+    second: BulletCollection_1.1_64
+  - first:
+      213: 3371401367804234823
+    second: BulletCollection_1.1_65
+  - first:
+      213: -8528618833047482273
+    second: BulletCollection_1.1_66
+  - first:
+      213: -8005147439452103460
+    second: BulletCollection_1.1_67
+  - first:
+      213: -7145651700116926222
+    second: BulletCollection_1.1_68
+  - first:
+      213: 6991914361668335409
+    second: BulletCollection_1.1_69
+  - first:
+      213: -5296759008674650721
+    second: BulletCollection_1.1_70
+  - first:
+      213: -343065716275625204
+    second: BulletCollection_1.1_71
+  - first:
+      213: -5100002422722037879
+    second: BulletCollection_1.1_72
+  - first:
+      213: -8891355436641240554
+    second: BulletCollection_1.1_73
+  - first:
+      213: -4015473472996668481
+    second: BulletCollection_1.1_74
+  - first:
+      213: -518916114046242338
+    second: BulletCollection_1.1_75
+  - first:
+      213: 5004571942337884010
+    second: BulletCollection_1.1_76
+  - first:
+      213: -7426862023891553153
+    second: BulletCollection_1.1_77
+  - first:
+      213: 5586251112240582527
+    second: BulletCollection_1.1_78
+  - first:
+      213: 869510860128622674
+    second: BulletCollection_1.1_79
+  - first:
+      213: -2768966801805846321
+    second: BulletCollection_1.1_80
+  - first:
+      213: 4540487437012114998
+    second: BulletCollection_1.1_81
+  - first:
+      213: 5250437289507275228
+    second: BulletCollection_1.1_82
+  - first:
+      213: 5352347540934871319
+    second: BulletCollection_1.1_83
+  - first:
+      213: 95489863974232772
+    second: BulletCollection_1.1_84
+  - first:
+      213: -3650261903580078690
+    second: BulletCollection_1.1_85
+  - first:
+      213: -3999271882662886845
+    second: BulletCollection_1.1_86
+  - first:
+      213: -2606055386226698361
+    second: BulletCollection_1.1_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletCollection_1.1_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc9eb58c5370370800000000000000
+      internalID: 8288652773850467703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e8d8413ec439210800000000000000
+      internalID: 1338498052445277808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6047b04746805b40800000000000000
+      internalID: 5426985191567999087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8dd4165130fa30800000000000000
+      internalID: 4246948694397390160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 247
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf7c64bb0959210800000000000000
+      internalID: 1339135598233386157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 247
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed422ab21113ed0800000000000000
+      internalID: -2436147044329136390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 247
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc93b96155d8c90800000000000000
+      internalID: -7165977876494693116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 247
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c4f8ce8063b390800000000000000
+      internalID: -7803787562929830582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf6fad1e1bc97460800000000000000
+      internalID: 7240041206182277034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ba16662fce09c0800000000000000
+      internalID: -3958999258583353819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 230
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89798ed71f1c8a0800000000000000
+      internalID: -6286478081757046622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 230
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f5f92f013e1550800000000000000
+      internalID: 6133393683723449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 213
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb320eea352f19d0800000000000000
+      internalID: -2801479508169704462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 213
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197776a19b0bbeae0800000000000000
+      internalID: -1518926140248983663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 213
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f041a1428c8d40800000000000000
+      internalID: 5587984456049816316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 213
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4877e3a718aece5a0800000000000000
+      internalID: -6490555121125132412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 177
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54966546f8769a2c0800000000000000
+      internalID: -4419887693726062267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 177
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0befd5594b99c39f0800000000000000
+      internalID: -487345658783727952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 177
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8fff0520edda70800000000000000
+      internalID: 8853478892267081232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 177
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb943a4c8c5be8b0800000000000000
+      internalID: -5121898393593668667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 177
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb87e0c3432f42a0800000000000000
+      internalID: -6751138542498903055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 177
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eabc3509715a2f0800000000000000
+      internalID: -962337036725146016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 177
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1417e3d85c13350800000000000000
+      internalID: 5994789789435511210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 177
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7173256a229350800000000000000
+      internalID: 6021922265622477368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 157
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d06fb88ee56cdd0800000000000000
+      internalID: -2466179393065185922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddb9790485c42e0800000000000000
+      internalID: -2140238688463102563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5f30eff5f7dd010800000000000000
+      internalID: 1215267524720195050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 157
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da53b31d271a4e30800000000000000
+      internalID: 4488425460999609042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 157
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d772d7c344f8cf90800000000000000
+      internalID: -6933023054384433198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 157
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc245f066f649b40800000000000000
+      internalID: 5446100333532294343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 157
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754ce0034ae99030800000000000000
+      internalID: 3502087758756463999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 157
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0797f9d5267f9c340800000000000000
+      internalID: 4884707272709601648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca825f0acaa226b0800000000000000
+      internalID: -5322504024781321530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 135
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42f485f27bb9b20800000000000000
+      internalID: 3142306578993980667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3ad9e8cad31c00800000000000000
+      internalID: 870279709464346601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c284ebb5e31b2c80800000000000000
+      internalID: -8346555606980328766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d657952671ebb0800000000000000
+      internalID: -4908512215032211009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 135
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da36eccefb75c90800000000000000
+      internalID: -7181060057023140597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef651b5b0a66520800000000000000
+      internalID: 2695018129252613880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 135
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8263e4dd4ebb6b0800000000000000
+      internalID: -5279374499010697047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea087e9e13f62290800000000000000
+      internalID: -7915371982223832348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67091060dbbedc410800000000000000
+      internalID: 1499113448066355318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60f39a00038bd40800000000000000
+      internalID: 5600278916032825056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201105cca4c13a480800000000000000
+      internalID: -8889230131918270206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 83
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb7b4e3078b3eb0800000000000000
+      internalID: -4739045732085417198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b47ac12e1d94e0800000000000000
+      internalID: -1973387931239009795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 82
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988bf2721fea1a6b0800000000000000
+      internalID: -5286752136788461431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 82
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6196d2d830d92b0b0800000000000000
+      internalID: -5714332338600711914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673d2009a6ee8b60800000000000000
+      internalID: 7750385622278027106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 82
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4c169656533870800000000000000
+      internalID: 8661361438249208860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87376a7621ce6790800000000000000
+      internalID: -7534872755537758325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 78
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f55b5392a96850800000000000000
+      internalID: 6370801901668528401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 78
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ea421d113859d0800000000000000
+      internalID: -2785422368597939842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 78
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e8198555f9fe90800000000000000
+      internalID: -6991287198794849943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cab1ec382fb89a0800000000000000
+      internalID: -6229619011624391562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc2a21b91f9d450800000000000000
+      internalID: 6114183617467043226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd58ad9501d5040800000000000000
+      internalID: 4637881169365819271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0dc841d95db9c0800000000000000
+      internalID: -3909870146083288367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481d9b7db70776a0800000000000000
+      internalID: -6451679430780839872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec30b75995555470800000000000000
+      internalID: 8382700398509571305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f47290a4d2ae900800000000000000
+      internalID: 714433286896045965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeac5469350fa690800000000000000
+      internalID: -7588841103040925983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 55
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d667902a06ff770800000000000000
+      internalID: 8646736058634366227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f103da702a6f610800000000000000
+      internalID: 1654688066959318891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 56
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074121cb36033aca0800000000000000
+      internalID: -6006904273066912656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ccc3b7eaf99ce20800000000000000
+      internalID: 3371401367804234823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 57
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f509f7f9b5244a980800000000000000
+      internalID: -8528618833047482273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc54d021d008e090800000000000000
+      internalID: -8005147439452103460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05dd553ab85dc90800000000000000
+      internalID: -7145651700116926222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13771333115480160800000000000000
+      internalID: 6991914361668335409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_70
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 40
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e81bbeb12e76b0800000000000000
+      internalID: -5296759008674650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 44
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c6c67c8f2d3bf0800000000000000
+      internalID: -343065716275625204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 44
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987750841d62939b0800000000000000
+      internalID: -5100002422722037879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab24bb65f8b9480800000000000000
+      internalID: -8891355436641240554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8705b62c2648c0800000000000000
+      internalID: -4015473472996668481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13c0a2b807cc8f0800000000000000
+      internalID: -518916114046242338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fafeb8aafc37540800000000000000
+      internalID: 5004571942337884010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_77
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 21
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fa16a65c7ee890800000000000000
+      internalID: -7426862023891553153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0b331ac9568d40800000000000000
+      internalID: 5586251112240582527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2589f4a358f111c00800000000000000
+      internalID: 869510860128622674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 22
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc853874d57a299d0800000000000000
+      internalID: -2768966801805846321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1b36744d030f30800000000000000
+      internalID: 4540487437012114998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_82
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1cb8495ec4dd840800000000000000
+      internalID: 5250437289507275228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719cbd30bbb574a40800000000000000
+      internalID: 5352347540934871319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 30
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a5dd768f335100800000000000000
+      internalID: 95489863974232772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 29
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd7fb732aa75dc0800000000000000
+      internalID: -3650261903580078690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 30
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cba9696bbf78c0800000000000000
+      internalID: -3999271882662886845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCollection_1.1_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d6f60f6e65dbd0800000000000000
+      internalID: -2606055386226698361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

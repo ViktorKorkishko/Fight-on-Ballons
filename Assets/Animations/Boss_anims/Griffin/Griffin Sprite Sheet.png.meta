@@ -1,0 +1,3047 @@
+fileFormatVersion: 2
+guid: ad710c7c777bb864e9c9976b89200277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5788512022263564874
+    second: Griffin Sprite Sheet_0
+  - first:
+      213: 7766549589502087146
+    second: Griffin Sprite Sheet_1
+  - first:
+      213: 2842152842611744008
+    second: Griffin Sprite Sheet_2
+  - first:
+      213: -4247718231821588747
+    second: Griffin Sprite Sheet_3
+  - first:
+      213: 1597886377776659040
+    second: Griffin Sprite Sheet_4
+  - first:
+      213: -803347604445564373
+    second: Griffin Sprite Sheet_5
+  - first:
+      213: 6273861658124929278
+    second: Griffin Sprite Sheet_6
+  - first:
+      213: 192908958554055635
+    second: Griffin Sprite Sheet_7
+  - first:
+      213: 438559148267590597
+    second: Griffin Sprite Sheet_8
+  - first:
+      213: -8357569572910747615
+    second: Griffin Sprite Sheet_9
+  - first:
+      213: 2864369595848497685
+    second: Griffin Sprite Sheet_10
+  - first:
+      213: 1019738788395696250
+    second: Griffin Sprite Sheet_11
+  - first:
+      213: 1597545681401680479
+    second: Griffin Sprite Sheet_12
+  - first:
+      213: -4875385586984156544
+    second: Griffin Sprite Sheet_13
+  - first:
+      213: -7364620221334343431
+    second: Griffin Sprite Sheet_14
+  - first:
+      213: -8626238066680225782
+    second: Griffin Sprite Sheet_15
+  - first:
+      213: -6877123725408585209
+    second: Griffin Sprite Sheet_16
+  - first:
+      213: 3177144197708048349
+    second: Griffin Sprite Sheet_17
+  - first:
+      213: -5276083641122215456
+    second: Griffin Sprite Sheet_18
+  - first:
+      213: 8485423491441766114
+    second: Griffin Sprite Sheet_19
+  - first:
+      213: -4000670710267743584
+    second: Griffin Sprite Sheet_20
+  - first:
+      213: 7407821969826219877
+    second: Griffin Sprite Sheet_21
+  - first:
+      213: -4905689250621006278
+    second: Griffin Sprite Sheet_22
+  - first:
+      213: -4170000058059612972
+    second: Griffin Sprite Sheet_23
+  - first:
+      213: -4863116209599240570
+    second: Griffin Sprite Sheet_24
+  - first:
+      213: -152049396336850027
+    second: Griffin Sprite Sheet_25
+  - first:
+      213: -5352217016167915914
+    second: Griffin Sprite Sheet_26
+  - first:
+      213: -4742622074655574261
+    second: Griffin Sprite Sheet_27
+  - first:
+      213: -1192843661518112531
+    second: Griffin Sprite Sheet_28
+  - first:
+      213: -5678651558219482262
+    second: Griffin Sprite Sheet_29
+  - first:
+      213: -4571272074080028413
+    second: Griffin Sprite Sheet_30
+  - first:
+      213: 7186801385703038479
+    second: Griffin Sprite Sheet_31
+  - first:
+      213: 6487008887036934762
+    second: Griffin Sprite Sheet_32
+  - first:
+      213: -4675323552743507101
+    second: Griffin Sprite Sheet_33
+  - first:
+      213: -8848097672279480832
+    second: Griffin Sprite Sheet_34
+  - first:
+      213: -1367970169898851149
+    second: Griffin Sprite Sheet_35
+  - first:
+      213: -3392773855223467766
+    second: Griffin Sprite Sheet_36
+  - first:
+      213: 2091321515686091918
+    second: Griffin Sprite Sheet_37
+  - first:
+      213: -1633284960270168370
+    second: Griffin Sprite Sheet_38
+  - first:
+      213: 3482607724338301461
+    second: Griffin Sprite Sheet_39
+  - first:
+      213: 1683396451544459947
+    second: Griffin Sprite Sheet_40
+  - first:
+      213: -4927309739370226064
+    second: Griffin Sprite Sheet_41
+  - first:
+      213: -7819343554787230447
+    second: Griffin Sprite Sheet_42
+  - first:
+      213: 467233774099829117
+    second: Griffin Sprite Sheet_43
+  - first:
+      213: 6335516594980623692
+    second: Griffin Sprite Sheet_44
+  - first:
+      213: 4124506707861276154
+    second: Griffin Sprite Sheet_45
+  - first:
+      213: 7302571211066940914
+    second: Griffin Sprite Sheet_46
+  - first:
+      213: -1217735099556996237
+    second: Griffin Sprite Sheet_47
+  - first:
+      213: -8938002504866063996
+    second: Griffin Sprite Sheet_48
+  - first:
+      213: 8582954091822343242
+    second: Griffin Sprite Sheet_49
+  - first:
+      213: -3157923328174729209
+    second: Griffin Sprite Sheet_50
+  - first:
+      213: -5178602540889484707
+    second: Griffin Sprite Sheet_51
+  - first:
+      213: -5127576987291547160
+    second: Griffin Sprite Sheet_52
+  - first:
+      213: 479796766734695244
+    second: Griffin Sprite Sheet_53
+  - first:
+      213: -776053105261145280
+    second: Griffin Sprite Sheet_54
+  - first:
+      213: -380789559731473306
+    second: Griffin Sprite Sheet_55
+  - first:
+      213: -3869652259104956311
+    second: Griffin Sprite Sheet_56
+  - first:
+      213: -6099907749146198474
+    second: Griffin Sprite Sheet_57
+  - first:
+      213: 5963218561321058496
+    second: Griffin Sprite Sheet_58
+  - first:
+      213: 8431130619249735869
+    second: Griffin Sprite Sheet_59
+  - first:
+      213: 7983105346424835335
+    second: Griffin Sprite Sheet_60
+  - first:
+      213: -7338091583429767679
+    second: Griffin Sprite Sheet_61
+  - first:
+      213: -5108984827355802644
+    second: Griffin Sprite Sheet_62
+  - first:
+      213: -7552544377544219559
+    second: Griffin Sprite Sheet_63
+  - first:
+      213: -8336484579675729400
+    second: Griffin Sprite Sheet_64
+  - first:
+      213: -4519391714573143873
+    second: Griffin Sprite Sheet_65
+  - first:
+      213: -3797879219082731508
+    second: Griffin Sprite Sheet_66
+  - first:
+      213: 5026073641476741419
+    second: Griffin Sprite Sheet_67
+  - first:
+      213: 3733165128952093353
+    second: Griffin Sprite Sheet_68
+  - first:
+      213: -1834250508884117840
+    second: Griffin Sprite Sheet_69
+  - first:
+      213: 4047032853241048168
+    second: Griffin Sprite Sheet_70
+  - first:
+      213: 3916076179199625557
+    second: Griffin Sprite Sheet_71
+  - first:
+      213: 5356284750951898924
+    second: Griffin Sprite Sheet_72
+  - first:
+      213: -2932027862893157061
+    second: Griffin Sprite Sheet_73
+  - first:
+      213: 8591400134282249794
+    second: Griffin Sprite Sheet_74
+  - first:
+      213: -3232781442160773920
+    second: Griffin Sprite Sheet_75
+  - first:
+      213: 350441502244248305
+    second: Griffin Sprite Sheet_76
+  - first:
+      213: -3811192112210362209
+    second: Griffin Sprite Sheet_77
+  - first:
+      213: -308357508226401206
+    second: Griffin Sprite Sheet_78
+  - first:
+      213: 4377742625521025929
+    second: Griffin Sprite Sheet_79
+  - first:
+      213: 6863067564744531028
+    second: Griffin Sprite Sheet_80
+  - first:
+      213: -8427234873787063055
+    second: Griffin Sprite Sheet_81
+  - first:
+      213: 7696265841733108391
+    second: Griffin Sprite Sheet_82
+  - first:
+      213: -7473551042370675778
+    second: Griffin Sprite Sheet_83
+  - first:
+      213: -3036191975749663305
+    second: Griffin Sprite Sheet_84
+  - first:
+      213: -2079902459968664812
+    second: Griffin Sprite Sheet_85
+  - first:
+      213: 6281920960195110079
+    second: Griffin Sprite Sheet_86
+  - first:
+      213: -1572496640826186188
+    second: Griffin Sprite Sheet_87
+  - first:
+      213: 7086867065713999843
+    second: Griffin Sprite Sheet_88
+  - first:
+      213: -1396679998568570284
+    second: Griffin Sprite Sheet_89
+  - first:
+      213: 4740901240716535663
+    second: Griffin Sprite Sheet_90
+  - first:
+      213: -3959877235431818798
+    second: Griffin Sprite Sheet_91
+  - first:
+      213: 4565107101333478913
+    second: Griffin Sprite Sheet_92
+  - first:
+      213: -6839234018662428103
+    second: Griffin Sprite Sheet_93
+  - first:
+      213: 8305543099798173563
+    second: Griffin Sprite Sheet_94
+  - first:
+      213: 5633223923401073831
+    second: Griffin Sprite Sheet_95
+  - first:
+      213: -336784746496003877
+    second: Griffin Sprite Sheet_96
+  - first:
+      213: 3913846983064505333
+    second: Griffin Sprite Sheet_97
+  - first:
+      213: -6368066523193660669
+    second: Griffin Sprite Sheet_98
+  - first:
+      213: -5700676684651805546
+    second: Griffin Sprite Sheet_99
+  - first:
+      213: -1908228491060037237
+    second: Griffin Sprite Sheet_100
+  - first:
+      213: 1078404140009897001
+    second: Griffin Sprite Sheet_101
+  - first:
+      213: 3267554747958537797
+    second: Griffin Sprite Sheet_102
+  - first:
+      213: -1273668216866403712
+    second: Griffin Sprite Sheet_103
+  - first:
+      213: -6917140433717206490
+    second: Griffin Sprite Sheet_104
+  - first:
+      213: -1503588946139615148
+    second: Griffin Sprite Sheet_105
+  - first:
+      213: 5995794273026212395
+    second: Griffin Sprite Sheet_106
+  - first:
+      213: 2546717291268024655
+    second: Griffin Sprite Sheet_107
+  - first:
+      213: -1347835522699470989
+    second: Griffin Sprite Sheet_108
+  - first:
+      213: -1755100997209318498
+    second: Griffin Sprite Sheet_109
+  - first:
+      213: -4666775867007927438
+    second: Griffin Sprite Sheet_110
+  - first:
+      213: 2446950776849103162
+    second: Griffin Sprite Sheet_111
+  - first:
+      213: 3553587223632403895
+    second: Griffin Sprite Sheet_112
+  - first:
+      213: -6980064932640207854
+    second: Griffin Sprite Sheet_113
+  - first:
+      213: -5942040954520199180
+    second: Griffin Sprite Sheet_114
+  - first:
+      213: -8660955263479500190
+    second: Griffin Sprite Sheet_115
+  - first:
+      213: -3914013352059004188
+    second: Griffin Sprite Sheet_116
+  - first:
+      213: -1663587626455771306
+    second: Griffin Sprite Sheet_117
+  - first:
+      213: -3852463716031411168
+    second: Griffin Sprite Sheet_118
+  - first:
+      213: 6480302526989044584
+    second: Griffin Sprite Sheet_119
+  - first:
+      213: 6000641485026254813
+    second: Griffin Sprite Sheet_120
+  - first:
+      213: -3454494441641984497
+    second: Griffin Sprite Sheet_121
+  - first:
+      213: -8671394268700625895
+    second: Griffin Sprite Sheet_122
+  - first:
+      213: -4529197483889187927
+    second: Griffin Sprite Sheet_123
+  - first:
+      213: -4949108017133750397
+    second: Griffin Sprite Sheet_124
+  - first:
+      213: -4740857549334602586
+    second: Griffin Sprite Sheet_125
+  - first:
+      213: -4552367763796124407
+    second: Griffin Sprite Sheet_126
+  - first:
+      213: -4685182128917819082
+    second: Griffin Sprite Sheet_127
+  - first:
+      213: -1897164316260791589
+    second: Griffin Sprite Sheet_128
+  - first:
+      213: -1866688349277487665
+    second: Griffin Sprite Sheet_129
+  - first:
+      213: -6571627367810340556
+    second: Griffin Sprite Sheet_130
+  - first:
+      213: -6123262869194733219
+    second: Griffin Sprite Sheet_131
+  - first:
+      213: -7470187399595153768
+    second: Griffin Sprite Sheet_132
+  - first:
+      213: 5190046413502260520
+    second: Griffin Sprite Sheet_133
+  - first:
+      213: -2361298366517175745
+    second: Griffin Sprite Sheet_134
+  - first:
+      213: 6110424399649310647
+    second: Griffin Sprite Sheet_135
+  - first:
+      213: -7785591159639352582
+    second: Griffin Sprite Sheet_136
+  - first:
+      213: -5300921491618838422
+    second: Griffin Sprite Sheet_137
+  - first:
+      213: -7739855030352856241
+    second: Griffin Sprite Sheet_138
+  - first:
+      213: -8142439215583553391
+    second: Griffin Sprite Sheet_139
+  - first:
+      213: -7936765419183131497
+    second: Griffin Sprite Sheet_140
+  - first:
+      213: -4232410800819811410
+    second: Griffin Sprite Sheet_141
+  - first:
+      213: 7415070062219181971
+    second: Griffin Sprite Sheet_142
+  - first:
+      213: -7332283459468649293
+    second: Griffin Sprite Sheet_143
+  - first:
+      213: 5331865501968724815
+    second: Griffin Sprite Sheet_144
+  - first:
+      213: -3754832337999932493
+    second: Griffin Sprite Sheet_145
+  - first:
+      213: -2693546993418044386
+    second: Griffin Sprite Sheet_146
+  - first:
+      213: 8106027867061393450
+    second: Griffin Sprite Sheet_147
+  - first:
+      213: -3451327537699359621
+    second: Griffin Sprite Sheet_148
+  - first:
+      213: -7475234233897505372
+    second: Griffin Sprite Sheet_149
+  - first:
+      213: -8713964157868966431
+    second: Griffin Sprite Sheet_150
+  - first:
+      213: 6033018719267832019
+    second: Griffin Sprite Sheet_151
+  - first:
+      213: 910204345781717022
+    second: Griffin Sprite Sheet_152
+  - first:
+      213: 6815437683948501844
+    second: Griffin Sprite Sheet_153
+  - first:
+      213: -2223810404020824273
+    second: Griffin Sprite Sheet_154
+  - first:
+      213: 7499413746486314485
+    second: Griffin Sprite Sheet_155
+  - first:
+      213: 795482140056025367
+    second: Griffin Sprite Sheet_156
+  - first:
+      213: -6671115744932665817
+    second: Griffin Sprite Sheet_157
+  - first:
+      213: 333758002807628247
+    second: Griffin Sprite Sheet_158
+  - first:
+      213: 5023750701463760468
+    second: Griffin Sprite Sheet_159
+  - first:
+      213: 6892444623527839423
+    second: Griffin Sprite Sheet_160
+  - first:
+      213: -1806982709925485022
+    second: Griffin Sprite Sheet_161
+  - first:
+      213: 3978870875052192614
+    second: Griffin Sprite Sheet_162
+  - first:
+      213: -4095390324909979714
+    second: Griffin Sprite Sheet_163
+  - first:
+      213: 1191367886671964909
+    second: Griffin Sprite Sheet_164
+  - first:
+      213: 2470659230511278807
+    second: Griffin Sprite Sheet_165
+  - first:
+      213: 6592642231817471234
+    second: Griffin Sprite Sheet_166
+  - first:
+      213: 4160502430200260492
+    second: Griffin Sprite Sheet_167
+  - first:
+      213: 7594731545208794902
+    second: Griffin Sprite Sheet_168
+  - first:
+      213: -4322412701060389678
+    second: Griffin Sprite Sheet_169
+  - first:
+      213: -8797948776010300341
+    second: Griffin Sprite Sheet_170
+  - first:
+      213: -3544994994556904615
+    second: Griffin Sprite Sheet_171
+  - first:
+      213: -3820412289991218469
+    second: Griffin Sprite Sheet_172
+  - first:
+      213: 7359099127418297313
+    second: Griffin Sprite Sheet_173
+  - first:
+      213: 4374335939789614013
+    second: Griffin Sprite Sheet_174
+  - first:
+      213: 8447370963080044430
+    second: Griffin Sprite Sheet_175
+  - first:
+      213: -7406821019859580497
+    second: Griffin Sprite Sheet_176
+  - first:
+      213: -4648202355823754717
+    second: Griffin Sprite Sheet_177
+  - first:
+      213: 8514329813967644264
+    second: Griffin Sprite Sheet_178
+  - first:
+      213: -5712762063597027124
+    second: Griffin Sprite Sheet_179
+  - first:
+      213: 6658697070714817498
+    second: Griffin Sprite Sheet_180
+  - first:
+      213: -734995848442412228
+    second: Griffin Sprite Sheet_181
+  - first:
+      213: 3245093304004487675
+    second: Griffin Sprite Sheet_182
+  - first:
+      213: -169104151103715973
+    second: Griffin Sprite Sheet_183
+  - first:
+      213: 7195723426120565136
+    second: Griffin Sprite Sheet_184
+  - first:
+      213: 595933270288684815
+    second: Griffin Sprite Sheet_185
+  - first:
+      213: -5148388413452404251
+    second: Griffin Sprite Sheet_186
+  - first:
+      213: -1840244758563404592
+    second: Griffin Sprite Sheet_187
+  - first:
+      213: 4022596578636476051
+    second: Griffin Sprite Sheet_188
+  - first:
+      213: -2936241878796642814
+    second: Griffin Sprite Sheet_189
+  - first:
+      213: 6621604980703504941
+    second: Griffin Sprite Sheet_190
+  - first:
+      213: 671521774557410447
+    second: Griffin Sprite Sheet_191
+  - first:
+      213: -8185808906209621155
+    second: Griffin Sprite Sheet_192
+  - first:
+      213: 497441185496727551
+    second: Griffin Sprite Sheet_193
+  - first:
+      213: 5710469549034259260
+    second: Griffin Sprite Sheet_194
+  - first:
+      213: 4589193106057783894
+    second: Griffin Sprite Sheet_195
+  - first:
+      213: -2363983956088872795
+    second: Griffin Sprite Sheet_196
+  - first:
+      213: -5257153444844501815
+    second: Griffin Sprite Sheet_197
+  - first:
+      213: -5791500183255102301
+    second: Griffin Sprite Sheet_198
+  - first:
+      213: 2645384599540291095
+    second: Griffin Sprite Sheet_199
+  - first:
+      213: -966157762947912942
+    second: Griffin Sprite Sheet_200
+  - first:
+      213: 8507423414329396839
+    second: Griffin Sprite Sheet_201
+  - first:
+      213: -1339742364409846053
+    second: Griffin Sprite Sheet_202
+  - first:
+      213: -5774040906589949611
+    second: Griffin Sprite Sheet_203
+  - first:
+      213: -6705426995586622502
+    second: Griffin Sprite Sheet_204
+  - first:
+      213: -3265506329817887924
+    second: Griffin Sprite Sheet_205
+  - first:
+      213: 205002569865996219
+    second: Griffin Sprite Sheet_206
+  - first:
+      213: 3206269970808196159
+    second: Griffin Sprite Sheet_207
+  - first:
+      213: -2185040265891834544
+    second: Griffin Sprite Sheet_208
+  - first:
+      213: -2906381603542147038
+    second: Griffin Sprite Sheet_209
+  - first:
+      213: -2470165085539283741
+    second: Griffin Sprite Sheet_210
+  - first:
+      213: -9052769980575398671
+    second: Griffin Sprite Sheet_211
+  - first:
+      213: 4519242965002965332
+    second: Griffin Sprite Sheet_212
+  - first:
+      213: -4950526434167061612
+    second: Griffin Sprite Sheet_213
+  - first:
+      213: -5803999133508622281
+    second: Griffin Sprite Sheet_214
+  - first:
+      213: -4282259892652469025
+    second: Griffin Sprite Sheet_215
+  - first:
+      213: 1321329729693111181
+    second: Griffin Sprite Sheet_216
+  - first:
+      213: -8849167901383456560
+    second: Griffin Sprite Sheet_217
+  - first:
+      213: -5244379756449101423
+    second: Griffin Sprite Sheet_218
+  - first:
+      213: 7025324051372273527
+    second: Griffin Sprite Sheet_219
+  - first:
+      213: -4411086932937807409
+    second: Griffin Sprite Sheet_220
+  - first:
+      213: -7736427688064868440
+    second: Griffin Sprite Sheet_221
+  - first:
+      213: -8283871200886660061
+    second: Griffin Sprite Sheet_222
+  - first:
+      213: 8722553977893332320
+    second: Griffin Sprite Sheet_223
+  - first:
+      213: 8822329934159476784
+    second: Griffin Sprite Sheet_224
+  - first:
+      213: 1618629007934939926
+    second: Griffin Sprite Sheet_225
+  - first:
+      213: -9129785096153601768
+    second: Griffin Sprite Sheet_226
+  - first:
+      213: -8792506990871742690
+    second: Griffin Sprite Sheet_227
+  - first:
+      213: 6292910029259891421
+    second: Griffin Sprite Sheet_228
+  - first:
+      213: 3402509385441369832
+    second: Griffin Sprite Sheet_229
+  - first:
+      213: 5228379835889728923
+    second: Griffin Sprite Sheet_230
+  - first:
+      213: 6284549931667251416
+    second: Griffin Sprite Sheet_231
+  - first:
+      213: -5100654866726263045
+    second: Griffin Sprite Sheet_232
+  - first:
+      213: 3903919443521730593
+    second: Griffin Sprite Sheet_233
+  - first:
+      213: 6862716765688280436
+    second: Griffin Sprite Sheet_234
+  - first:
+      213: -7518186852971566329
+    second: Griffin Sprite Sheet_235
+  - first:
+      213: 6717833727567241835
+    second: Griffin Sprite Sheet_236
+  - first:
+      213: 8841807554408521585
+    second: Griffin Sprite Sheet_237
+  - first:
+      213: -1719160504817786452
+    second: Griffin Sprite Sheet_238
+  - first:
+      213: -2767823775626225711
+    second: Griffin Sprite Sheet_239
+  - first:
+      213: 5429719536777769127
+    second: Griffin Sprite Sheet_240
+  - first:
+      213: 3160165534558088442
+    second: Griffin Sprite Sheet_241
+  - first:
+      213: 3614614165546566719
+    second: Griffin Sprite Sheet_242
+  - first:
+      213: -1475856488469438243
+    second: Griffin Sprite Sheet_243
+  - first:
+      213: 8145619373261990280
+    second: Griffin Sprite Sheet_244
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0911f30de45050800000000000000
+      internalID: 5788512022263564874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4ab4e3b358cb60800000000000000
+      internalID: 7766549589502087146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5d35b3fa517720800000000000000
+      internalID: 2842152842611744008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e25606c21d05c0800000000000000
+      internalID: -4247718231821588747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a30d2d135dc2610800000000000000
+      internalID: 1597886377776659040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227cdd2c9fe9d4f0800000000000000
+      internalID: -803347604445564373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ca7e00fb311750800000000000000
+      internalID: 6273861658124929278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ea9cfca95da200800000000000000
+      internalID: 192908958554055635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3dc75c833161600800000000000000
+      internalID: 438559148267590597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ba05f0c2f30c80800000000000000
+      internalID: -8357569572910747615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9af9a8f840c720800000000000000
+      internalID: 2864369595848497685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7043067607d62e00800000000000000
+      internalID: 1019738788395696250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f521864455f9b2610800000000000000
+      internalID: 1597545681401680479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08200c8b3a6275cb0800000000000000
+      internalID: -4875385586984156544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f035b99dec9bc990800000000000000
+      internalID: -7364620221334343431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a29f9e22794880800000000000000
+      internalID: -8626238066680225782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3c96886c8f80a0800000000000000
+      internalID: -6877123725408585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e49880db771c20800000000000000
+      internalID: 3177144197708048349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e929add1e597c6b0800000000000000
+      internalID: -5276083641122215456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee242035b742c570800000000000000
+      internalID: 8485423491441766114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27e2b7f23ca78c0800000000000000
+      internalID: -4000670710267743584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56783de45deddc660800000000000000
+      internalID: 7407821969826219877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e58463e9d7bebb0800000000000000
+      internalID: -4905689250621006278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9ff17a0f2126c0800000000000000
+      internalID: -4170000058059612972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686a461c29db28cb0800000000000000
+      internalID: -4863116209599240570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b870f21efc3edf0800000000000000
+      internalID: -152049396336850027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e92862bfa19b5b0800000000000000
+      internalID: -5352217016167915914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b077a30c952de2eb0800000000000000
+      internalID: -4742622074655574261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8f2a2820b227fe0800000000000000
+      internalID: -1192843661518112531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bfb1d9e706131b0800000000000000
+      internalID: -5678651558219482262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309fbcca4449f80c0800000000000000
+      internalID: -4571272074080028413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e5d1278c5acb360800000000000000
+      internalID: 7186801385703038479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a73ae863c760a50800000000000000
+      internalID: 6487008887036934762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb4bceff9ed1fb0800000000000000
+      internalID: -4675323552743507101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00622d9db0e353580800000000000000
+      internalID: -8848097672279480832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b429d7d06ef30de0800000000000000
+      internalID: -1367970169898851149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013c2487227ae0d0800000000000000
+      internalID: -3392773855223467766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd99596ddd50d10800000000000000
+      internalID: 2091321515686091918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ececb1e6bf76559e0800000000000000
+      internalID: -1633284960270168370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a473d0645b45030800000000000000
+      internalID: 3482607724338301461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae5765720ac5710800000000000000
+      internalID: 1683396451544459947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed386e5edae9bb0800000000000000
+      internalID: -4927309739370226064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dba20377c1c7390800000000000000
+      internalID: -7819343554787230447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71194c54a2fb7600800000000000000
+      internalID: 467233774099829117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459960b6c64ce750800000000000000
+      internalID: 6335516594980623692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af589cb8ff03d3930800000000000000
+      internalID: 4124506707861276154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd93a663d1f75560800000000000000
+      internalID: 7302571211066940914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5168f06cb91fe0800000000000000
+      internalID: -1217735099556996237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48918efc316d5f380800000000000000
+      internalID: -8938002504866063996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446e86a547cc1770800000000000000
+      internalID: 8582954091822343242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d934e67dcc24d0800000000000000
+      internalID: -3157923328174729209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d85d2d68e128b0800000000000000
+      internalID: -5178602540889484707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9050aa5ef27d8b0800000000000000
+      internalID: -5127576987291547160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3a950e9498a600800000000000000
+      internalID: 479796766734695244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043121effc7ea35f0800000000000000
+      internalID: -776053105261145280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643706b9e927baf0800000000000000
+      internalID: -380789559731473306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e2cbc5cb3c4ac0800000000000000
+      internalID: -3869652259104956311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efc798836c85ba0800000000000000
+      internalID: -6099907749146198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ce81efab91c250800000000000000
+      internalID: 5963218561321058496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8bc4fc0a4610570800000000000000
+      internalID: 8431130619249735869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d8c2a2400b9ce60800000000000000
+      internalID: 7983105346424835335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8260759cd92a90800000000000000
+      internalID: -7338091583429767679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d89a3e5d3919b0800000000000000
+      internalID: -5108984827355802644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546a1a57e8ff2790800000000000000
+      internalID: -7552544377544219559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80218e0817bde4c80800000000000000
+      internalID: -8336484579675729400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0360c2e25e741c0800000000000000
+      internalID: -4519391714573143873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006cb6e8f83b4bc0800000000000000
+      internalID: -3797879219082731508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29dc2ff85330c540800000000000000
+      internalID: 5026073641476741419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9017d7eddec330800000000000000
+      internalID: 3733165128952093353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6f1e461ee6b86e0800000000000000
+      internalID: -1834250508884117840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca4cb10f2f92830800000000000000
+      internalID: 4047032853241048168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55900966982b85630800000000000000
+      internalID: 3916076179199625557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f54582a98555a40800000000000000
+      internalID: 5356284750951898924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a4b871385f47d0800000000000000
+      internalID: -2932027862893157061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246032727e8ca3770800000000000000
+      internalID: 8591400134282249794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43887086ad223d0800000000000000
+      internalID: -3232781442160773920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa92d780b40dd400800000000000000
+      internalID: 350441502244248305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f904eec67fceb1bc0800000000000000
+      internalID: -3811192112210362209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c3752ea7e78bbf0800000000000000
+      internalID: -308357508226401206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983444049bdd0cc30800000000000000
+      internalID: 4377742625521025929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5a1a86938e3f50800000000000000
+      internalID: 6863067564744531028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4632d18827c0b80800000000000000
+      internalID: -8427234873787063055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28979a101aeca60800000000000000
+      internalID: 7696265841733108391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdebc6cec984890800000000000000
+      internalID: -7473551042370675778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cc870c774dd5d0800000000000000
+      internalID: -3036191975749663305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4b128bb3b223e0800000000000000
+      internalID: -2079902459968664812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a28b84dddd2750800000000000000
+      internalID: 6281920960195110079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366f09f2ae5d2ae0800000000000000
+      internalID: -1572496640826186188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef3c466c0c995260800000000000000
+      internalID: 7086867065713999843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526d64f0fefd9ce0800000000000000
+      internalID: -1396679998568570284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672e106f801bc140800000000000000
+      internalID: 4740901240716535663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93eeb72a0bb09c0800000000000000
+      internalID: -3959877235431818798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e5890c8b48a5f30800000000000000
+      internalID: 4565107101333478913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932dbd555e82611a0800000000000000
+      internalID: -6839234018662428103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ba22d177334370800000000000000
+      internalID: 8305543099798173563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ad8eef4b3d2e40800000000000000
+      internalID: 5633223923401073831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f553be00835bf0800000000000000
+      internalID: -336784746496003877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4bca3817c05630800000000000000
+      internalID: 3913846983064505333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2cf29c3510a7a0800000000000000
+      internalID: -6368066523193660669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944aff32c023e0b0800000000000000
+      internalID: -5700676684651805546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8936103c4c9485e0800000000000000
+      internalID: -1908228491060037237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb9990ad247fe00800000000000000
+      internalID: 1078404140009897001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea5342bbfa85d20800000000000000
+      internalID: 3267554747958537797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a09f34185035ee0800000000000000
+      internalID: -1273668216866403712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
